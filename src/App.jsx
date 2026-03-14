@@ -1,6 +1,6 @@
 import "./App.css";
 import jsPDF from "jspdf";
-import logo from "../../vite-project/src/assets/hero.png"
+import logo from "../../vite-project/src/assets/hero.png";
 
 function App() {
   function PDFdowload() {
